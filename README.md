@@ -1,1 +1,1 @@
-# Test go app
+# Test go code
